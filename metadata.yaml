@@ -1,0 +1,34 @@
+_repo: O-Primeiro-de-Maio_32379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, S. de Magalhães (Sebastião de Magalhães)
+    aliases:
+    - Lima, Magalhães
+    - Lima, Sebastião de Magalhães
+    - Lima, Sebastiao de Magalhaes
+    - De Magalhães Lima, S. (Sebastião)
+    - Magalhães Lima, S. de (Sebastião)
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '9922'
+    url: http://www.gutenberg.org/2009/agents/9922
+    wikipedia: http://pt.wikipedia.org/wiki/Sebasti%C3%A3o_de_Magalh%C3%A3es_Lima
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2010-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32379'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism -- Europe'
+- !lcc 'HX'
+title: O Primeiro de Maio
+url: http://www.gutenberg.org/ebooks/32379
